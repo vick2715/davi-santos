@@ -1,4 +1,4 @@
-
+<div align="center">
 <pre align="center">
 ██████╗  █████╗ ██╗   ██╗██╗    ███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗
 ██╔══██╗██╔══██╗██║   ██║██║    ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝
@@ -13,7 +13,7 @@
 ### 🛡️ Cybersecurity Analyst | Proteção de Dados & Monitoramento de Segurança
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-santos-8b9569286)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vick2715)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F;Threat+Detection+%26+Incident+Response;SIEM+%2F+XDR;Always+learning%2C+always+defending.)
 
@@ -83,8 +83,8 @@ davi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vick2715&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vick2715&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ---
